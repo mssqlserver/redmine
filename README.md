@@ -1,5 +1,5 @@
-# Redmine for MSSQL (Microsoft SQL-Server for linux) running on Docker
-pre-configured redmine on a lightweight linux
+# Redmine for linux MSSQL (Microsoft SQL-Server) running on Docker 
+pre-configured redmine on a lightweight linux using MSSQL Express 2019 for linux
 
 This project is about running redmine on Docker using a Linux-Version of Microsoft SQL-Server Express 2019 (this "only" needs 2 GB RAM).
 
