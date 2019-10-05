@@ -1,0 +1,15 @@
+--- a/docker-entrypoint.sh
++++ b/docker-entrypoint.sh
+@@ -24,6 +24,12 @@
+ 	unset "$fileVar"
+ }
+ 
++# Update SSL ca-certificates, if local certificates are present:
++# /usr/local/share/ca-certificates/*.crt
++if [ -w /etc/ssl -a -n "$(find -L /usr/local/share/ca-certificates -type f -name \*.crt)" ]; then
++	update-ca-certificates
++fi
++
+ isLikelyRedmine=
+ case "$1" in
+ 	rails | rake | passenger ) isLikelyRedmine=1 ;;
