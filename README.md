@@ -10,6 +10,7 @@ The concept:
 - secure, robust and lightweight - using Alpine-Linux https://alpinelinux.org/ (Alpine takes only 5 MB!!!)
 - CMS-Plugin redmine is pre-configured to act like a real website
 - accessing the database using tools like "Microsoft SQL Server Management Studio"
+- the project contains a step-by-step-guide which lets novice docker-users run redmine on docker
 
 More information:
 https://hub.docker.com/r/mssqlserver/redmine
