@@ -1,4 +1,4 @@
-FROM redmine AS orig
+FROM redmine3 AS orig
 # This build stage is just a source for an unpatched file
 
 
