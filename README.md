@@ -12,4 +12,5 @@ The concept:
 More information:
 https://hub.docker.com/r/mssqlserver/redmine
 
-This project has started in October 2019.
+This project has started in October 2019
+Based on https://hub.docker.com/r/menlosystems/redmine/
