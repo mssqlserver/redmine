@@ -5,10 +5,11 @@ This project is about running redmine on Docker using a Linux-Version of Microso
 The concept:
 - be secure, robust and lightweight - using Alpine-Linux https://alpinelinux.org/ (Alpine takes only 5 MB!!!)
 - using a CMS-Plugin redmine is pre-configured to act like a real website
-- Microsoft SQL-Server 2019 running on linux (this version "only" needs 2 GB RAM)
+- Microsoft SQL-Server 2019 Express running on linux (this version "only" needs 2 GB RAM)
 - CMS-Plugin redmine is pre-configured to act like a real website
 - accessing the database using tools like "Microsoft SQL Server Management Studio"
 - the project contains a step-by-step-guide which lets novice docker-users run redmine on docker
+- documentation of how to install redmine plugins & themes you have purchased or downloaded 
 
 More information:
 https://hub.docker.com/r/mssqlserver/redmine
