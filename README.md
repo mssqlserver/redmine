@@ -1,6 +1,6 @@
 Redmine image for Docker (Alpha version - in progress)
 ========================
-This project is about running a eeady to use redmine on Docker using a Linux-Version of Microsoft SQL-Server Express 2019.
+This project is about running a ready to use redmine on Docker using a Linux-Version of Microsoft SQL-Server Express 2019. The goal is keep this project up to date so that always the latest version of redmine will be supported.
 
 The concept:
 - be secure, robust and lightweight - using Alpine-Linux https://alpinelinux.org/ (Alpine takes only 5 MB!!!)
