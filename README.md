@@ -12,7 +12,7 @@ A beginners step-by-step-guide covering:
 - how to set the listening port and IP-address of your redmine-installation
 - what to do after you have installed docker to run redmine
 - how to install redmine plugins & themes you have purchased or downloaded 
-- how to access folders of redmines in order to upload/download/edit files
+- how to access folders of redmine in order to upload/download/edit files
 - how to enlarge the diskspace afterwards if your redmine grows
 
 More information:
