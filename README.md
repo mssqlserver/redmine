@@ -7,7 +7,7 @@ The concept:
 - using a CMS-Plugin redmine is pre-configured to act like a real website
 - Microsoft SQL-Server Express 2019 running on linux (this version "only" needs 2 GB RAM)
 - CMS-Plugin redmine is pre-configured to act like a real website
-- accessing the database using tools like "Microsoft SQL Server Management Studio"
+- accessing the redmine-database using tools like "Microsoft SQL Server Management Studio"
 - the project contains a step-by-step-guide which lets novice docker-users run redmine on docker
 - documentation of how to install redmine plugins & themes you have purchased or downloaded 
 
