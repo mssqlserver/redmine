@@ -6,7 +6,6 @@ The concept:
 - be secure, robust and lightweight - using Alpine-Linux https://alpinelinux.org/ (Alpine takes only 5 MB!!!)
 - using a CMS-Plugin redmine is pre-configured to act like a real website https://www.redmineup.com/pages/plugins/cms
 - Microsoft SQL-Server Express 2019 running on linux (this version "only" needs 2 GB RAM)
-- CMS-Plugin redmine is pre-configured to act like a real website
 - accessing the redmine-database using tools like "Microsoft SQL Server Management Studio"
 
 A beginners step-by-step-guide covering:
