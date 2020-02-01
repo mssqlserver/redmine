@@ -1,4 +1,4 @@
-Redmine image for Docker
+Redmine image for Docker (Alpha version - in progress)
 ========================
 This project is about running a eeady to use redmine on Docker using a Linux-Version of Microsoft SQL-Server Express 2019.
 
