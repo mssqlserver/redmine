@@ -38,7 +38,7 @@ ENV HOME=/home/redmine
 # Tue, 01 Oct 2019 21:05:01 GMT
 RUN set -eux; 	[ ! -d "$HOME" ]; 	mkdir -p "$HOME"; 	chown redmine:redmine "$HOME"; 	chmod 1777 "$HOME"
 # Tue, 01 Oct 2019 21:05:02 GMT
-ENV REDMINE_VERSION=4.0.4
+ENV REDMINE_VERSION=4.1.1
 # Tue, 01 Oct 2019 21:05:02 GMT
 ENV REDMINE_DOWNLOAD_MD5=35a4f60b35fed2b10d14cb12fc8aef50
 # Tue, 01 Oct 2019 21:05:05 GMT
